@@ -1,6 +1,5 @@
+![python readme](https://user-images.githubusercontent.com/111011053/208523993-26fbfcec-fd37-4179-9456-d0efd9d53de7.png)
 
-
-https://user-images.githubusercontent.com/111011053/208522835-60d40656-81a5-417a-937f-ff92e25fa480.mp4
 
 
 ### Exceptions ###
