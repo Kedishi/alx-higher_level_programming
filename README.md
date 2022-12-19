@@ -1,6 +1,7 @@
 # alx-higher_level_programming
 
-A repository for ALX-HOLBERTON Python project
+A repository for ALX Learning school Python project
+
 A repo dedicated to learning and understanding python in programming:
 # The repositories has a list of folders containing task and projects about python and even c language:
 
