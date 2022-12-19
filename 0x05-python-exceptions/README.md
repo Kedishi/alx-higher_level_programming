@@ -1,3 +1,4 @@
+![Exception-Handling-in-Python 2](https://user-images.githubusercontent.com/111011053/208444979-97880c8a-41ba-4a40-99c6-c2df80931559.png)
 ### Exceptions ###
 
 Project done during Full Stack Software Engineering studies at ALX learning School. 
