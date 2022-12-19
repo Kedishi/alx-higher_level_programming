@@ -5,7 +5,8 @@ A repository for ALX Learning school Python project
 A repo dedicated to learning and understanding python in programming:
 # The repositories has a list of folders containing task and projects about python and even c language:
 
-![readme](https://user-images.githubusercontent.com/111011053/208457828-d2685c81-4983-4f7d-8131-467cc935e4c9.png)
+![readme22](https://user-images.githubusercontent.com/111011053/208517891-7e95925e-0952-4dd3-a9b7-69c62bac7c6a.png)
+
 # DIRECTORIES 📁
 
 0x00-python-hello_world
