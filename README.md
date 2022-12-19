@@ -3,6 +3,8 @@
 A repository for ALX-HOLBERTON Python project
 A repo dedicated to learning and understanding python in programming:
 # The repositories has a list of folders containing task and projects about python and even c language:
+
+![readme](https://user-images.githubusercontent.com/111011053/208457828-d2685c81-4983-4f7d-8131-467cc935e4c9.png)
 # DIRECTORIES 📁
 
 0x00-python-hello_world
@@ -17,5 +19,5 @@ A repo dedicated to learning and understanding python in programming:
 
 0x05-python-exceptions
 
-![readme](https://user-images.githubusercontent.com/111011053/208457828-d2685c81-4983-4f7d-8131-467cc935e4c9.png)
+
 
