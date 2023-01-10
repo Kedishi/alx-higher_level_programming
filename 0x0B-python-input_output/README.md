@@ -23,9 +23,8 @@ It aims to learn how to open, read, write and append files from a script in **Py
 | `10-student.py` | Write a class Student that defines a student by: (based on 9-student.py) |
 | `11-student.py` | Write a class Student that defines a student by: (based on 10-student.py)` |
 | `12-pascal_triangle.py` | Technical interview preparation:
-
-You are not allowed to google anything
-Whiteboard first |
+| You are not allowed to google anything
+| Whiteboard first |
 | `100-append_after.py` | Function that inserts a line of text to a file, after each line containing a specific string |
 | `101-stats.py` | Function that reads `stdin` line by line and computes metrics |
 | `read_write_heap.py` | Script that finds in the heap of a running process, and replaces it |
